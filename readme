@@ -1,3 +1,27 @@
+# Fannie Mae and Freddie Mac Maximum Loan Limits for Mortgages Acquired in Calendar Year 2020 and Originated after 10/1/2011 or before 7/1/2007
+
+(These limits were determined under the provisions of the Housing and Economic Recovery Act of 2008)
+
+## Overview
+
+This repository contains data and analysis related to the maximum loan limits set by Fannie Mae and Freddie Mac for various types of properties. The data covers mortgages acquired in the calendar year 2020 and originated after October 1, 2011, or before July 1, 2007.
+
+## Data
+
+The dataset includes the following columns:
+
+- **FIPS State Code**: Federal Information Processing Standards code for the state.
+- **FIPS County Code**: Federal Information Processing Standards code for the county.
+- **County Name**: Name of the county.
+- **State**: State where the county is located.
+- **CBSA Number**: Core-Based Statistical Area number, which represents metropolitan or micropolitan areas.
+- **One Unit Limit**: Maximum loan limit for one-unit properties.
+- **Two Unit Limit**: Maximum loan limit for two-unit properties.
+- **Three-Unit Limit**: Maximum loan limit for three-unit properties.
+- **Four-Unit Limit**: Maximum loan limit for four-unit properties.
+
+Here is a sample of the state data:
+
 
 ## Analysis
 
